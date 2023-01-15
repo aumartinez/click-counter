@@ -38,3 +38,9 @@ body {
   height: 50px;
   width: auto;  
 }
+
+.main-container {
+  height: 550px;
+  min-width: 600px;
+  flex-direction: column;
+}
